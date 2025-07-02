@@ -1,3 +1,6 @@
 [submodule "Q3_RS_Prereq"]
 	path = Q3_RS_Prereq
 	url = https://github.com/mehan05/Q3_RS_Prereq.git
+[submodule "solana_starter"]
+	path = solana_starter
+	url = https://github.com/mehan05/solana_starter.git
