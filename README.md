@@ -16,6 +16,7 @@ This repository documents my weekly progress, key learnings, and project milesto
 ---
 
 ### 📅 Week 2:
- Will update soon
+- ✅ Created **Vault** program and test for it 
+- ✅ Created **escrow** program and its test.
 
 
