@@ -13,3 +13,6 @@
 [submodule "amm"]
 	path = amm
 	url = git@github.com:mehan05/amm.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = git@github.com:mehan05/nft-staking.git
