@@ -1,15 +1,15 @@
 [submodule "Q3_RS_Prereq"]
 	path = Q3_RS_Prereq
-	url = https://github.com/mehan05/Q3_RS_Prereq.git
+	url = git@github.com:mehan05/Q3_RS_Prereq.git
 [submodule "solana-starter"]
 	path = solana-starter
-	url = https://github.com/mehan05/solana-starter.git
+	url = git@github.com:mehan05/solana-starter.git
 [submodule "anchor_vault"]
 	path = anchor_vault
-	url = https://github.com/mehan05/anchor_vault.git
+	url = git@github.com:mehan05/anchor_vault.git
 [submodule "escrow"]
 	path = escrow
-	url = https://github.com/mehan05/escrow.git
+	url = git@github.com:mehan05/escrow.git
 [submodule "amm"]
 	path = amm
 	url = git@github.com:mehan05/amm.git
