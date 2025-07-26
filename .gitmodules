@@ -13,3 +13,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = git@github.com:mehan05/nft-staking.git
+[submodule "escrow"]
+	path = escrow
+	url = git@github.com:mehan05/escrow.git
