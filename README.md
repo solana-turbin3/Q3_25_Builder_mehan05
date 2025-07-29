@@ -16,8 +16,15 @@ This repository documents my weekly progress, key learnings, and project milesto
 ---
 
 ### 📅 Week 2:
-- ✅ Created **Vault** program and test for it 
-- ✅ Created **escrow** program and its test.
-- Amm => working
+ - ✅ Vault Contract
+ - ✅ Escrow
+
+### 📅 Week 3:
+ - ✅ AMM
+ - ✅ Staking
+
+### 📅 Week 4:
+ - NFT MarketPlace (On going)
+   
 
 
