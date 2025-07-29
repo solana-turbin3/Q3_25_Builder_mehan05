@@ -16,6 +16,15 @@ This repository documents my weekly progress, key learnings, and project milesto
 ---
 
 ### 📅 Week 2:
- Will update soon
+ - ✅ Vault Contract
+ - ✅ Escrow
+
+### 📅 Week 3:
+ - ✅ AMM
+ - ✅ Staking
+
+### 📅 Week 4:
+ - NFT MarketPlace (On going)
+   
 
 
