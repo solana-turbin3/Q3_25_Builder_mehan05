@@ -17,3 +17,6 @@
 [submodule "escrow_"]
 	path = escrow_
 	url = https://github.com/mehan05/escrow_.git
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/mehan05/marketplace.git
