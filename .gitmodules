@@ -22,5 +22,5 @@
 	url = https://github.com/mehan05/marketplace.git
 [submodule "capstone"]
 	path = capstone
-	url = git@github.com:mehan05/capstone.git
+	url = https://github.com/mehan05/capstone.git
 	branch = main
